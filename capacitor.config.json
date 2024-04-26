@@ -1,0 +1,5 @@
+{
+  "appId": "com.calendar.app",
+  "appName": "vue_calendar",
+  "webDir": "dist"
+}

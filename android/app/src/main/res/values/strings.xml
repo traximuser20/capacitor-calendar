@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue_calendar</string>
+    <string name="title_activity_main">vue_calendar</string>
+    <string name="package_name">com.calendar.app</string>
+    <string name="custom_url_scheme">com.calendar.app</string>
+</resources>
